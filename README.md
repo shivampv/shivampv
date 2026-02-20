@@ -24,8 +24,8 @@
 <br></br>
 <br></br>
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com?user=shivam-pr-verma&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-pr-verma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com?user=shivampv&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivampv&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br></br>
 <br></br>
 ## ✍️ Dev Quote's
