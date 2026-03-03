@@ -13,15 +13,17 @@
  📫 Ping me at **foxeiop@gmail.com**
 
  ⚡ Fun fact **I think I am creative and enthusiastic.**
-
+<br></br>
 <br></br>
 # 🌐 Lets Connect:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shivam_btw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivampv/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/foxei0p) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/ncYY8E7TPA)
+[![Instagram](https://skills.syvixor.com/api/icons?perline=15&i=instagram)](https://instagram.com/_shivam_btw)  [![LinkedIn](https://skills.syvixor.com/api/icons?perline=15&i=linkedin)](https://www.linkedin.com/in/shivampv/)  [![X](https://skills.syvixor.com/api/icons?perline=15&i=x)](https://x.com/foxei0p)[![Discord](https://skills.syvixor.com/api/icons?perline=15&i=discord)](https://discord.gg/https://discord.gg/https://discord.gg/ncYY8E7TPA)
 <br></br>
+
 <br></br>
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://skills.syvixor.com/api/icons?perline=15&i=github,docker,python,flask,django,fastapi,html,tailwindcss,nodejs,reactjs,nextjs,mongodb)
 <br></br>
+
 <br></br>
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com?user=shivampv&theme=highcontrast&hide_border=true)<br/>
