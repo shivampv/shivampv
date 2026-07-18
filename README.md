@@ -24,17 +24,6 @@
 ![](https://skills.syvixor.com/api/icons?perline=15&i=github,docker,python,flask,django,fastapi,html,tailwindcss,nodejs,reactjs,nextjs,mongodb)
 <br></br>
 
-<br></br>
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com?user=shivampv&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivampv&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<br></br>
-<br></br>
-## ✍️ Dev Quote's
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true)
-<br></br>
-
 
 
 ## 🐍 My Contributions Destroyer
